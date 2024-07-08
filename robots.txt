@@ -1,1 +1,1 @@
-Sitemap: https://lmc-lab.github.io/lmclab.com/sitemap.xml
+Sitemap: http://lmclab.com/sitemap.xml
