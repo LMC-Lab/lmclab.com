@@ -1,7 +1,7 @@
 ---
 ---
 
-# LMC-LabDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# We seek to uncover molecular, cellular, and network-level mechanisms that give rise to cognition.
 
 
 
